@@ -37,31 +37,41 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 
 ## Apps 🕯️
 
-
 - [Akord](https://akord.com/) - Permanent blockchain storage for the things that matter most.
+- [Another Money](https://another.money/) - Permaweb is epoch for Another Money.
+- [ArVerify](https://arverify.org/) - The blue tick for the permaweb.
+- [Amplify](https://www.amplify.host/) - The Distributed Economy for Bandwidth.[Source](https://github.com/AmplifyEconomy)
 - [CrypNote](https://crypnote.io/) - CrypNote is a web3 permanent storage note collaboration product.
+- [Check My NFT](https://checkmynft.com/) - NFT asset permanence checker.[Source](https://github.com/theweaver19/checkmynft)
 - [decent.land](https://decent.land/) - The web3 social layer.
 - [DSocial](https://dsocial.app) - Decentralized & censorship resistant 📺 built on InternetComputer & Arweave.
 - [Darkblock](https://www.darkblock.io/) - NFT content access controls for the creator economy.
 - [Dojima Network](https://www.dojima.network/) - Organizing the Unorganized WEB3.0.
 - [EthSign](https://ethsign.xyz/) - The first ever Web3 native agreement signing and execution platform.
-- [everFinance](https://everpay.io/) - Real-time financial protocol for the blockchain.
+- [everFinance](https://ever.finance/) - Decentralized financial services for everyone, everywhere.
+- [everPay](https://everpay.io/) - Real-time financial protocol for the blockchain.
+- [Evermore](https://www.evermoredata.store/) - We store your data safely and securely on the blockchain.
 - [glass.xyz](https://glass.xyz/) - Own the future of video. Support creators, join their journey. Unlimited upload size.
 - [Mask Network](https://mask.io/) - The Portal to the New, Open Internet.
 - [Mirror.xyz](https://mirror.xyz/) - Create and connect your world on web3.
 - [Metaweave.xyz](https://metaweave.xyz/) - The public place for arweavers.
+- [nest.land](https://nest.land/) - A persistent module registry for Deno, on the blockchain.
 - [redstone.finance](https://redstone.finance/) - Powering DeFi
 with real-world data.
 - [Permacast](https://permacast.net/) - Permacast is the protocol that lets you store your podcasts permanently on Arweave.
+- [Pianity](https://pianity.com/) - a music NFT platform where musicians and their community gather to create, share, trade and collect limited-edition tracks.
+- [Permabot](https://permabot.xyz/) - Archive various content from the web/social media and store it on the Permaweb (Blockchain permanent storage).
 - [Papyrus](https://papyrus.so/) - Web3-native newsletters & publishing. We're changing how creators publish, grow & get paid.
 - [KYVE Network](https://www.kyve.network/) - A next-generation protocol that enables data providers to seamlessly store and reliably verify their data streams.
 - [Koii Network](https://koii.network/) - The attention game has been dominated by a powerful few. Koii is changing things by rewarding creators and developers directly for their content.
 - [Kwil](https://kwil.com/) - Kwil is the first decentralized, community owned SQL database solution for building advanced dApps and protocols.
+- [Sarcophagus](https://sarcophagus.io/) - A decentralized dead man's switch application built on Ethereum and Arweave.
 - [Orbis](https://orbis.club/) - Orbis is the crypto native social network built on Ceramic and Arweave.
 - [OLTA](https://olta.art/) - A NFT Art Platform for Interactive Experiences.
 - [Solanart](https://solanart.io/) - Discover, collect and trade NFTs.
 - [Releap](https://beta.releap.io/) - Music NFT platform built on Solana.
 - [Verto Exchange](https://www.verto.exchange/) - The first decentralized exchange on the permaweb.
+- [Weve](http://weve.email/) - Weve is the first mail network with an immutable privacy policy.
 - [Weavemail](https://weavemail.app/) - Private, decentralised and open source mail. [Source](https://github.com/ArweaveTeam/weavemail)
 
 ## Services ⚒️
