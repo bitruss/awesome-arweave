@@ -30,8 +30,9 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 - [Developer Discord](https://discord.gg/BXk8tq7)
 - [Miners Discord](https://discord.gg/GHB4fxVv8B)
 - [Arweave Wiki](https://arwiki.wiki/)
+- [Arweave Block Explorer](https://viewblock.io/arweave)
 - [Arweave News](https://arweave.news/)
-- [Whitepaper](hhttps://www.arweave.org/files/arweave-lightpaper.pdf)
+- [Whitepaper](https://www.arweave.org/files/arweave-lightpaper.pdf)
 - [YellowPaper](https://www.arweave.org/yellow-paper.pdf)
 
 ## Apps 🕯️
@@ -115,7 +116,9 @@ with real-world data.
 
 ## Podcasts 🎙️
 
-- [The pathway forward in 2022 for the Arweave ecosystem @ Permaweb Pioneers](https://open.spotify.com/episode/4oyQeX5GYHM0E3A4I66Y7l) - In this panel, we have a great discussion from a number of founders in the ecosystem about what they're building in 2022 and what they want to see happen for Arweave overall. 
+- [Permaweb Pioneers: The pathway forward in 2022 for the Arweave ecosystem](https://open.spotify.com/episode/4oyQeX5GYHM0E3A4I66Y7l)
+- [Content2049: Uprising Web3 Storage I](https://open.spotify.com/episode/6JO58XwzQaXH6gVUbPvCU6)
+
 
 ## Articles 📰
 
