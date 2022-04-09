@@ -1,4 +1,4 @@
-# Awesome Arweave
+# Awesome Arweave 🐘
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome)
 [![](https://img.shields.io/badge/project-Arweave-blue.svg?style=flat-square)](https://www.arweave.org/)
@@ -12,9 +12,9 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 
 ## Table of Contents
 
-- [Awesome Arweave](#awesome-arweave)
+- [Awesome Arweave 🐘](#awesome-arweave-)
   - [Table of Contents](#table-of-contents)
-  - [Official 💽](#official-)
+  - [Official 🐘](#official-)
   - [Apps 🕯️](#apps-️)
   - [Services ⚒️](#services-️)
   - [Tools ⚙️](#tools-️)
@@ -22,7 +22,7 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
   - [Podcasts 🎙️](#podcasts-️)
   - [Articles 📰](#articles-)
 
-## Official 💽
+## Official 🐘
 
 - [Website](https://www.arweave.org/)
 - [Twitter](https://twitter.com/ArweaveTeam)
@@ -36,12 +36,40 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 
 ## Apps 🕯️
 
+
+- [Akord](https://akord.com/) - Permanent blockchain storage for the things that matter most.
+- [CrypNote](https://crypnote.io/) - CrypNote is a web3 permanent storage note collaboration product.
+- [decent.land](https://decent.land/) - The web3 social layer.
+- [DSocial](https://dsocial.app) - Decentralized & censorship resistant 📺 built on InternetComputer & Arweave.
+- [Darkblock](https://www.darkblock.io/) - NFT content access controls for the creator economy.
+- [Dojima Network](https://www.dojima.network/) - Organizing the Unorganized WEB3.0.
+- [EthSign](https://ethsign.xyz/) - The first ever Web3 native agreement signing and execution platform.
+- [everFinance](https://everpay.io/) - Real-time financial protocol for the blockchain.
+- [glass.xyz](https://glass.xyz/) - Own the future of video. Support creators, join their journey. Unlimited upload size.
+- [Mask Network](https://mask.io/) - The Portal to the New, Open Internet.
+- [Mirror.xyz](https://mirror.xyz/) - Create and connect your world on web3.
+- [Metaweave.xyz](https://metaweave.xyz/) - The public place for arweavers.
+- [redstone.finance](https://redstone.finance/) - Powering DeFi
+with real-world data.
+- [Permacast](https://permacast.net/) - Permacast is the protocol that lets you store your podcasts permanently on Arweave.
+- [Papyrus](https://papyrus.so/) - Web3-native newsletters & publishing. We're changing how creators publish, grow & get paid.
+- [KYVE Network](https://www.kyve.network/) - A next-generation protocol that enables data providers to seamlessly store and reliably verify their data streams.
+- [Koii Network](https://koii.network/) - The attention game has been dominated by a powerful few. Koii is changing things by rewarding creators and developers directly for their content.
+- [Kwil](https://kwil.com/) - Kwil is the first decentralized, community owned SQL database solution for building advanced dApps and protocols.
+- [Orbis](https://orbis.club/) - Orbis is the crypto native social network built on Ceramic and Arweave.
+- [OLTA](https://olta.art/) - A NFT Art Platform for Interactive Experiences.
+- [Solanart](https://solanart.io/) - Discover, collect and trade NFTs.
+- [Releap](https://beta.releap.io/) - Music NFT platform built on Solana.
+- [Verto Exchange](https://www.verto.exchange/) - The first decentralized exchange on the permaweb.
 - [Weavemail](https://weavemail.app/) - Private, decentralised and open source mail. [Source](https://github.com/ArweaveTeam/weavemail)
 
 ## Services ⚒️
 
 - [ArDrive](https://ardrive.io/) - ArDrive is the app that lets you pay once to securely save your files forever on the Arweave permaweb.
+- [Bundlr Network](https://bundlr.network/) - We make permanent data storage easy.
 - [Meson Network](https://meson.network/) - Bandwidth trading platform built on blockchain.
+- [Media Foundation](https://media.network/) - Media Foundation is a non-profit organization dedicated to the decentralization, growth, and security of Media Network.
+- [Pocket Network](https://www.pokt.network/) - Decentralized RPC protocol for ANY blockchain.
 - [Spheron Protocol](https://spheron.network/) - Best decentralized cloud storage in 3 clicks.
 
 ## Tools ⚙️
@@ -49,6 +77,8 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 - [ArConnect](https://www.arconnect.io/) - 🦔 Secure wallet management for Arweave. [Source](https://github.com/th8ta/ArConnect)
 - [arweave-js](https://github.com/ArweaveTeam/arweave-js) - Browser and Nodejs client for general interaction with the arweave protocol and gateways.
 - [arweave-php](https://github.com/ArweaveTeam/arweave-php) - This package allows us to interact with the Arweave network, we can use it to read and write transactions and data to the network.
+- [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) - Simple, scalable smart contracts on the Arweave protocol.
+- [3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.[Demo](https://3em.dev/)
 - [arweave-python-client](https://github.com/MikeHibbert/arweave-python-client) - This client allows you to integrate your python apps with the Arweave network allowing you to perform wallet operations and transactions.
 - [arkb](https://github.com/textury/arkb) - Deploy your files to the Arweave network.
 - [arweave-nft-uploader](https://github.com/0xEnrico/arweave-nft-uploader) - a Python tool to improve the experience of uploading NFTs to the Arweave storage for use with the Metaplex Candy Machine.
@@ -89,4 +119,5 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 
 ## Articles 📰
 
+- [Creating a Permaweb App with Arweave + React](https://arwiki.wiki/#/en/creating-a-dapp) 
 - [Meson Network enhance Arweave](https://medium.com/meson-network/meson-enhance-arweave-86c8cabba8f2) 
