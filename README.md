@@ -56,8 +56,8 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 - [Mirror.xyz](https://mirror.xyz/) - Create and connect your world on web3.
 - [Metaweave.xyz](https://metaweave.xyz/) - The public place for arweavers.
 - [nest.land](https://nest.land/) - A persistent module registry for Deno, on the blockchain.
-- [redstone.finance](https://redstone.finance/) - Powering DeFi
-with real-world data.
+- [Ownbase](https://ownbase.org/) - Evidence provider for businesses and creators : Proof of achievements
+- [redstone.finance](https://redstone.finance/) - Powering DeFi with real-world data.
 - [Permacast](https://permacast.net/) - Permacast is the protocol that lets you store your podcasts permanently on Arweave.
 - [Pianity](https://pianity.com/) - a music NFT platform where musicians and their community gather to create, share, trade and collect limited-edition tracks.
 - [Permabot](https://permabot.xyz/) - Archive various content from the web/social media and store it on the Permaweb (Blockchain permanent storage).
@@ -119,6 +119,7 @@ with real-world data.
 - [arweave-url-shortener](https://github.com/niinpatel/arweave-url-shortener) - URL Shortening website that uses the Arweave Blockchain as backend.
 - [ar-im](https://github.com/igastatus/ar-im) - Instant messaging on the Arweave.
 - [arweave4s](https://github.com/toknapp/arweave4s) - Light, modular, functional http-client for the Arweave blockchain.
+- [arpending ](arpending.ownbase.org) - Minimalist tool to have a real time overview of pending transactions on arweave.
 
 ## Videos 📺
 
