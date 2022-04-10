@@ -120,6 +120,12 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 - [ar-im](https://github.com/igastatus/ar-im) - Instant messaging on the Arweave.
 - [arweave4s](https://github.com/toknapp/arweave4s) - Light, modular, functional http-client for the Arweave blockchain.
 - [arpending ](arpending.ownbase.org) - Minimalist tool to have a real time overview of pending transactions on arweave.
+- [redstone-smartcontracts](https://github.com/redstone-finance/redstone-smartcontracts) - An implementation of the SmartWeave protocol, with Wasm support and greatly enhanced performance
+- [redstone-gateway](https://gateway.redstone.finance/) - A gateway dedicated for indexing SmartWeave interactions. Much faster and more safe than default arweave.net.
+- [SonAR](https://sonar.redstone.tools/#/app/contracts) - A SmartWeave contracts explorer.
+- [redstone-testnet](https://testnet.redstone.tools/) - Publicly available testnet based on ArLocal (with automatic block mining every 10s).
+- [redstone-academy](https://redstone.academy/) - A guide for writing SmartWeave contracts.
+- [redstone-wasm-templates](https://github.com/redstone-finance/redstone-smartcontracts-wasm-templates) - Wasm templates (AssemblyScript, Rust, Go) for SmartWeave contracts.
 
 ## Videos 📺
 
