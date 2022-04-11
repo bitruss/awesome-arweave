@@ -41,6 +41,7 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 - [Another Money](https://another.money/) - Permaweb is epoch for Another Money.
 - [ArVerify](https://arverify.org/) - The blue tick for the permaweb.
 - [Amplify](https://www.amplify.host/) - The Distributed Economy for Bandwidth.[Source](https://github.com/AmplifyEconomy)
+- [ANS](https://ar.page) - The first Arweave Name Service for decentralized identities.
 - [CrypNote](https://crypnote.io/) - CrypNote is a web3 permanent storage note collaboration product.
 - [Check My NFT](https://checkmynft.com/) - NFT asset permanence checker.[Source](https://github.com/theweaver19/checkmynft)
 - [decent.land](https://decent.land/) - The web3 social layer.
