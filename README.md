@@ -98,6 +98,7 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 - [did:ar](https://github.com/GlassProtocol/didar) - multi-chain DIDs backed by Arweave.
 - [arseeding](https://github.com/everFinance/arseeding) - Lightweight arweave data seed node.
 - [arweave-dart](https://github.com/CDDelta/arweave-dart) - Dart package for interfacing with the Arweave network.
+- [ar-erc20-contract](https://github.com/everFinance/ar-erc20-contract) - AR ERC20 Contract. [Demo:WAR Token](https://etherscan.io/address/0x4fadc7a98f2dc96510e42dd1a74141eeae0c1543)
 - [wAR](https://github.com/KYVENetwork/wAR) - Wrapped AR on Ethereum.
 - [argo-react](https://github.com/argoapp-live/argo-react) - One-click deployment service on the top of Arweave.
 - [arweave-ipfs-bridge](https://github.com/AndreiD/arweave-ipfs-bridge) - A bridge to connect IPFS to Arweave.
