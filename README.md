@@ -46,6 +46,7 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 - [Check My NFT](https://checkmynft.com/) - NFT asset permanence checker.[Source](https://github.com/theweaver19/checkmynft)
 - [decent.land](https://decent.land/) - The web3 social layer.
 - [DSocial](https://dsocial.app) - Decentralized & censorship resistant 📺 built on InternetComputer & Arweave.
+- [Scar](https://scar.argoapp.io/) - An Arweave Explorer and Toolkit on the Permaweb.[Source](https://github.com/renzholy/scar)
 - [Darkblock](https://www.darkblock.io/) - NFT content access controls for the creator economy.
 - [Dojima Network](https://www.dojima.network/) - Organizing the Unorganized WEB3.0.
 - [EthSign](https://ethsign.xyz/) - The first ever Web3 native agreement signing and execution platform.
