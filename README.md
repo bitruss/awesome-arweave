@@ -88,6 +88,7 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 ## Tools ⚙️
 
 - [ArConnect](https://www.arconnect.io/) - 🦔 Secure wallet management for Arweave. [Source](https://github.com/th8ta/ArConnect)
+- [IPFS + Arweave](https://ipfs2arweave.com/) - Permanently pin your IPFS data with Arweave.
 - [arweave-js](https://github.com/ArweaveTeam/arweave-js) - Browser and Nodejs client for general interaction with the arweave protocol and gateways.
 - [arweave-php](https://github.com/ArweaveTeam/arweave-php) - This package allows us to interact with the Arweave network, we can use it to read and write transactions and data to the network.
 - [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) - Simple, scalable smart contracts on the Arweave protocol.
