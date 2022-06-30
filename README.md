@@ -38,6 +38,7 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 ## Apps 🕯️
 
 - [Akord](https://akord.com/) - Permanent blockchain storage for the things that matter most.
+- [ArNS](https://arweave.dev/) - Arweave Name System (ArNS)
 - [Another Money](https://another.money/) - Permaweb is epoch for Another Money.
 - [ArVerify](https://arverify.org/) - The blue tick for the permaweb.
 - [Amplify](https://www.amplify.host/) - The Distributed Economy for Bandwidth.[Source](https://github.com/AmplifyEconomy)
