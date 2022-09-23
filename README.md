@@ -74,6 +74,7 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 - [Solanart](https://solanart.io/) - Discover, collect and trade NFTs.
 - [Releap](https://beta.releap.io/) - Music NFT platform built on Solana.
 - [Verto Exchange](https://www.verto.exchange/) - The first decentralized exchange on the permaweb.
+- [WeaveDB](https://weavedb.dev/) - Decentralized NoSQL Database on Arweave. [Source](https://github.com/asteroid-dao/weavedb)
 - [Weve](http://weve.email/) - Weve is the first mail network with an immutable privacy policy.
 - [Weavemail](https://weavemail.app/) - Private, decentralised and open source mail. [Source](https://github.com/ArweaveTeam/weavemail)
 
