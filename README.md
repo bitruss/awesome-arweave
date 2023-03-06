@@ -37,6 +37,7 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 
 ## Apps 🕯️
 
+- [Alex](https://alex.arweave.dev/) - Preserving Human History
 - [Akord](https://akord.com/) - Permanent blockchain storage for the things that matter most.
 - [ArNS](https://arweave.dev/) - Arweave Name System (ArNS)
 - [Another Money](https://another.money/) - Permaweb is epoch for Another Money.
