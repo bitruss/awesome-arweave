@@ -49,6 +49,7 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 - [decent.land](https://decent.land/) - The web3 social layer.
 - [DSocial](https://dsocial.app) - Decentralized & censorship resistant 📺 built on InternetComputer & Arweave.
 - [Scar](https://scar.argoapp.io/) - An Arweave Explorer and Toolkit on the Permaweb.[Source](https://github.com/renzholy/scar)
+- [DANNY](https://github.com/firstbatchxyz/danny) - Decentralized vector database for building vector search applications.
 - [Darkblock](https://www.darkblock.io/) - NFT content access controls for the creator economy.
 - [Dojima Network](https://www.dojima.network/) - Organizing the Unorganized WEB3.0.
 - [Execution Machine](https://exm.dev/) - Trustless & Serverless Application Development on the Arweave Blockchain.[Source](https://github.com/exmbuild)
@@ -57,6 +58,8 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 - [everPay](https://everpay.io/) - Real-time financial protocol for the blockchain.
 - [Evermore](https://www.evermoredata.store/) - We store your data safely and securely on the blockchain.
 - [glass.xyz](https://glass.xyz/) - Own the future of video. Support creators, join their journey. Unlimited upload size.
+- [Gravitate](https://gravitates.me/) - A news reading app combining GPT-4 Summarization & Hyper-Personalization Identity for a better reading experience on socials using Persona FirstBatch and DANNY.
+- [HollowDB](https://github.com/firstbatchxyz/HollowDB) - Decentralized privacy-preserving key-value database using zero-knowledge proofs.
 - [Mask Network](https://mask.io/) - The Portal to the New, Open Internet.
 - [Mirror.xyz](https://mirror.xyz/) - Create and connect your world on web3.
 - [Metaweave.xyz](https://metaweave.xyz/) - The public place for arweavers.
@@ -66,6 +69,7 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 - [Permacast](https://permacast.net/) - Permacast is the protocol that lets you store your podcasts permanently on Arweave.
 - [Pianity](https://pianity.com/) - a music NFT platform where musicians and their community gather to create, share, trade and collect limited-edition tracks.
 - [Permabot](https://permabot.xyz/) - Archive various content from the web/social media and store it on the Permaweb (Blockchain permanent storage).
+- [Persona FirstBatch](https://www.firstbatch.xyz/) - The universal, decentralized, and privacy-preserving recommendation engine using HollowDB.
 - [Papyrus](https://papyrus.so/) - Web3-native newsletters & publishing. We're changing how creators publish, grow & get paid.
 - [KYVE Network](https://www.kyve.network/) - A next-generation protocol that enables data providers to seamlessly store and reliably verify their data streams.
 - [Koii Network](https://koii.network/) - The attention game has been dominated by a powerful few. Koii is changing things by rewarding creators and developers directly for their content.
